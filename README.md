@@ -14,8 +14,15 @@ A powerful AI-powered accent detection application built with Streamlit that can
 ## 🤖 AI Model
 
 This application uses the **HamzaSidhu786/speech-accent-detection** model from Hugging Face:
-
 🔗 **Model Link**: [https://huggingface.co/HamzaSidhu786/speech-accent-detection](https://huggingface.co/HamzaSidhu786/speech-accent-detection)
+
+
+##  Demonstration Space
+
+You can check it out in action here: 
+🔗 **Space Link**: [https://huggingface.co/spaces/HeyChriss/accent-detector-ai}
+
+
 
 ### Model Details:
 - **Base Architecture**: Fine-tuned Facebook Wav2Vec2-base model
