@@ -145,6 +145,11 @@ The model can detect various English accents including but not limited to:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
+##  Known Issues
+
+This version works correctly, and there are no issues with YouTube cookies; however, in the HuggingFace Space, there might be issues related to cookies because there is no browser
+in HuggingFace therefore, some issues downloading from YouTube might be present. I am working on a way to download cookies manually to use in HuggingFace, but locally works perfectly locally. 
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
